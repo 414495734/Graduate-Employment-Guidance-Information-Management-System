@@ -1,0 +1,50 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 12/08/2018 13:24
+  	*/
+
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../font/Flaticon.eot");
+  src: url("../font/Flaticon.eot#iefix") format("embedded-opentype"),
+       url("../font/Flaticon.woff") format("woff"),
+       url("../font/Flaticon.ttf") format("truetype"),
+       url("https://www.17sucai.com/preview/2413762/2021-11-25/zhaopin%20mb/%E2%95%92%E2%95%A8%E2%95%9E%E2%95%95%E2%95%A7%E2%88%9E%E2%95%99%C2%AA%E2%95%A9%E2%95%9C%E2%94%80%C3%BA%E2%96%91%CF%83/fonts/flaticon/font/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("https://www.17sucai.com/preview/2413762/2021-11-25/zhaopin%20mb/%E2%95%92%E2%95%A8%E2%95%9E%E2%95%95%E2%95%A7%E2%88%9E%E2%95%99%C2%AA%E2%95%A9%E2%95%9C%E2%94%80%C3%BA%E2%96%91%CF%83/fonts/flaticon/font/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-resume:before { content: "\f100"; }
+.flaticon-team:before { content: "\f101"; }
+.flaticon-career:before { content: "\f102"; }
+.flaticon-employees:before { content: "\f103"; }
+.flaticon-contact:before { content: "\f104"; }
+.flaticon-mortarboard:before { content: "\f105"; }
+.flaticon-idea:before { content: "\f106"; }
+.flaticon-accounting:before { content: "\f107"; }
+.flaticon-dish:before { content: "\f108"; }
+.flaticon-stethoscope:before { content: "\f109"; }
+.flaticon-worldwide:before { content: "\f10a"; }
+.flaticon-visitor:before { content: "\f10b"; }
